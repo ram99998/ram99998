@@ -7,9 +7,6 @@
 <p align="left"><b>Full Stack Developer & Deep Learning Enthusiast</b></p>
 
 
-###
-## About me
-
 ## About me
 
 <p align="left">
@@ -20,7 +17,7 @@
 </p>
 
 <p align="left">
-  <img src="./assets/games.gif" width="500" />
+  <img src="./assets/games.gif" width="500" height="200" />
 </p>
 
 
@@ -28,17 +25,6 @@
 ###
 
 <h2 align="left">🛠️ Tech Stack</h2>
-
-<!-- MERN Badge -->
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN%20Full%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN%20Full%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
