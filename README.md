@@ -89,6 +89,6 @@ Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b
 ---
 
 <p align="center">
-  <img src="./assets/trex.gif" width="600" />
+  <img src="./assets/games.gif" width="600" />
 </p>
 
