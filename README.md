@@ -9,22 +9,23 @@
 
 ## About me
 
-<p align="left">
+<table>
+<tr>
+<td width="65%">
+
 ✨ Creating bugs since my first "Hello World"<br>
 📚 Currently learning AI, Deep Learning & scalable full-stack systems<br>
 🎯 Goals: Build intelligent, real-world software<br>
 🎲 Fun fact: I enjoy turning ML ideas into practical products
-</p>
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ram99998/ram99998/main/assets/games.gif" 
-    height="90"
-  />
-</p>
 
+</td>
+<td width="35%" align="right">
 
+<img src="./assets/games.gif" width="280"/>
 
-
+</td>
+</tr>
+</table>
 
 ###
 
