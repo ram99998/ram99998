@@ -10,23 +10,19 @@
 ###
 ## About me
 
-<table>
-<tr>
-<td width="65%">
+## About me
 
+<p align="left">
 ✨ Creating bugs since my first "Hello World"<br>
 📚 Currently learning AI, Deep Learning & scalable full-stack systems<br>
 🎯 Goals: Build intelligent, real-world software<br>
 🎲 Fun fact: I enjoy turning ML ideas into practical products
+</p>
 
-</td>
-<td width="35%" align="right">
+<p align="left">
+  <img src="./assets/games.gif" width="500" />
+</p>
 
-<img src="./assets/games.gif" width="280"/>
-
-</td>
-</tr>
-</table>
 
 
 ###
