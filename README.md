@@ -15,10 +15,12 @@
 🎯 Goals: Build intelligent, real-world software<br>
 🎲 Fun fact: I enjoy turning ML ideas into practical products
 </p>
-
-<p align="left">
-  <img src="./assets/games.gif" width="500" height="200" />
-</p>
+<marquee behavior="scroll" direction="right" scrollamount="6">
+  <img 
+    src="https://raw.githubusercontent.com/ram99998/ram99998/main/assets/games.gif" 
+    height="90"
+  />
+</marquee>
 
 
 
