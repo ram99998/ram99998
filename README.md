@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left"><b>I"m Ram</b></p>
+<p align="left"><b>Im Ram</b></p>
 <p align="left"><b>Full Stack Developer & Deep Learning Enthusiast</b></p>
 
 
