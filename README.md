@@ -21,7 +21,7 @@ Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b
 </td>
 <td width="35%" align="right">
 
-<img src="./assets/trex.gif" width="280"/>
+<img src="./assets/games.gif" width="280"/>
 
 </td>
 </tr>
