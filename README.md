@@ -2,9 +2,10 @@
 
 ###
 
-<p align="left">
-Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b>.
-</p>
+
+<p align="left"><b>I"m Ram</b></p>
+<p align="left"><b>Full Stack Developer & Deep Learning Enthusiast</b></p>
+
 
 ###
 ## About me
