@@ -86,6 +86,9 @@ Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b
 
 <hr>
 
+---
+
 <p align="center">
-  <img src="./assets/trex-walk.gif" width="600" alt="Walking T-Rex animation" />
+  <img src="./assets/trex.gif" width="600" />
 </p>
+
