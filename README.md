@@ -7,17 +7,26 @@ Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b
 </p>
 
 ###
+## About me
 
-<h2 align="left">About me</h2>
+<table>
+<tr>
+<td width="65%">
 
-###
-
-<p align="left">
-✨ Creating bugs since my first “Hello World”<br>
+✨ Creating bugs since my first "Hello World"<br>
 📚 Currently learning AI, Deep Learning & scalable full-stack systems<br>
-🎯 Goals: Build intelligent, real-world software and AI-driven applications<br>
+🎯 Goals: Build intelligent, real-world software<br>
 🎲 Fun fact: I enjoy turning ML ideas into practical products
-</p>
+
+</td>
+<td width="35%" align="right">
+
+<img src="./assets/trex.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
 
 ###
 
@@ -86,9 +95,5 @@ Iam <b> Ram</b> and I'm a <b> Full Stack Developer & Deep Learning Enthusiast</b
 
 <hr>
 
----
 
-<p align="center">
-  <img src="./assets/games.gif" width="600" />
-</p>
 
